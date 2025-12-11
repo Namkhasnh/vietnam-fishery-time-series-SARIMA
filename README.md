@@ -5,7 +5,7 @@
 - Mục tiêu: hiểu xu hướng, mùa vụ và xây dựng mô hình dự báo chính xác.  
 
 ## Dữ liệu  
-- Nguồn: dữ liệu sản lượng thủy sản theo tháng được cung cấp trong file `data.xlsx`.  
+- Nguồn: dữ liệu sản lượng thủy sản theo tháng được cào từ Cục Thống kê ( https://www.nso.gov.vn/en/monthly-report/) trong file `data.xlsx`.  
 - Có 251 quan sát, tần suất tháng, định dạng `YYYY-MM-DD` với ngày luôn là ngày đầu tháng.  
 
 ## Quy trình phân tích  
